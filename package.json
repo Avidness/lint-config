@@ -1,0 +1,14 @@
+
+
+{
+    "description": "ESLint and Prettier config",
+    "version": "1.0.0",
+    "packageManager": "npm@8.11.0",
+    "workspaces": [
+      "packages/*"
+    ],
+    "scripts": {
+      "publish-eslint-config": "npm publish --workspace @avidness/eslint-react",
+      "publish-prettier-config": "npm publish --workspace @avidness/prettier-react"
+    }
+  }

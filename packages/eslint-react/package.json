@@ -1,0 +1,24 @@
+{
+  "name": "eslint-react",
+  "version": "1.0.0",
+  "description": "``` npm i -D @avidness/eslint-react ```",
+  "main": "eslint-config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avidness/lint-config"
+  },
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "avidness",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  }
+}

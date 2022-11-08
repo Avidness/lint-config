@@ -1,0 +1,18 @@
+{
+  "name": "prettier-react",
+  "version": "1.0.0",
+  "description": "``` npm i -D @avidness/prettier-react```",
+  "main": "./prettier-config.json",
+  "author": "avidness",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/avidness/lint-config"
+  },
+  "scripts": {
+      "publish": "npm publish"
+  },
+  "peerDependencies": {
+      "prettier": "2.5.1"
+  }
+}
