@@ -1,6 +1,6 @@
 {
   "name": "@avidness/prettier-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "``` npm i -D @avidness/prettier-react```",
   "main": "./prettier-config.json",
   "author": "avidness",
@@ -16,6 +16,6 @@
       "publish": "npm publish"
   },
   "peerDependencies": {
-      "prettier": "2.5.1"
+      "prettier": "^2.7.1"
   }
 }
