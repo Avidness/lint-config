@@ -1,5 +1,5 @@
 {
-  "name": "eslint-react",
+  "name": "@avidness/eslint-react",
   "version": "1.0.0",
   "description": "``` npm i -D @avidness/eslint-react ```",
   "main": "eslint-config.js",
