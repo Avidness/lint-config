@@ -1,7 +1,7 @@
 {
-  "name": "@avidness/eslint-react",
-  "version": "1.0.1",
-  "description": "``` npm i -D @avidness/eslint-react ```",
+  "name": "@avidness/eslint-config-react",
+  "version": "1.0.3",
+  "description": "``` npm i -D @avidness/eslint-config-react ```",
   "main": "eslint-config.js",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "author": "avidness",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": "^8.20.0",
+    "eslint": "^8.27.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1"

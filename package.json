@@ -8,7 +8,7 @@
       "packages/*"
     ],
     "scripts": {
-      "publish-eslint-config": "npm publish --workspace @avidness/eslint-react",
+      "publish-eslint-config": "npm publish --workspace @avidness/eslint-config-react",
       "publish-prettier-config": "npm publish --workspace @avidness/prettier-react"
     }
   }
